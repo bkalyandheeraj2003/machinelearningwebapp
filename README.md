@@ -15,12 +15,8 @@ creating webapp for an ml algorithm
   <h2> this app is for creating a web app where user can choose what algoritm to choose in regresssion or classification algorithm</h2>
     <table>
         <tr>
-            <td>John Doe</td>
+            <td>Dheeraj</td>
             <td>Developer</td>
-        </tr>
-        <tr>
-            <td>Jane Smith</td>
-            <td>Designer</td>
         </tr>
     </table>
 </body>
